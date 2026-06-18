@@ -1,1 +1,1 @@
-Welcome to demo project
+welcome to demo project and get started"
